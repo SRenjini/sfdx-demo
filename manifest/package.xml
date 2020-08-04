@@ -32,5 +32,9 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>New</members>
+        <name>PermissionSet</name>
+    </types>
     <version>48.0</version>
 </Package>
